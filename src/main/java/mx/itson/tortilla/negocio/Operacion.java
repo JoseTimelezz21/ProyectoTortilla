@@ -13,7 +13,8 @@ public class Operacion {
 
 
 public String[] separar (String oracion){
-      // Claro que si mi gallito
+      // Claro que si mi gallito.
+      // En efecto, esto si es cine.
       String[]resultado = oracion.split("-");
               return resultado;
   }
